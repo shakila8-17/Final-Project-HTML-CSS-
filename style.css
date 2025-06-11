@@ -349,3 +349,29 @@ nav a:hover{
         padding-top: 1.3rem;
     }
 }
+@media screen and (max-width: 500px) {
+    .home p,.home-info p{
+        font-size: 17px;
+    }
+    nav ul{
+        justify-content: center;
+    }
+    .home-info {
+        max-width: 400px;
+}
+    .home-info h1{
+        font-size: 2rem;
+    }
+    .home-battum{
+        padding: 1rem 0.5rem;
+        margin: 1rem 0rem;
+    }
+    .home-img{
+        width: 35vw;
+        height: 35vw;
+    }
+    .about-info p{
+        padding: 0 2rem;
+    }
+
+}
