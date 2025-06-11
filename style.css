@@ -384,5 +384,6 @@ nav a:hover{
     }
     .home-info {
         max-width: 300px;
+        text-align:center;
 }
 }
