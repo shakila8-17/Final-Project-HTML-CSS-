@@ -349,7 +349,7 @@ nav a:hover{
         padding-top: 1.3rem;
     }
 }
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 550px) {
     .home p,.home-info p{
         font-size: 17px;
     }
