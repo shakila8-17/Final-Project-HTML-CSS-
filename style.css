@@ -383,6 +383,6 @@ nav a:hover{
         font-size: 15px;
     }
     .home-info {
-        max-width: 300px;
+        max-width:90%;
 }
 }
