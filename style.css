@@ -357,7 +357,7 @@ nav a:hover{
         justify-content: center;
     }
     .home-info {
-        max-width: 400px;
+        max-width:380px;
 }
     .home-info h1{
         font-size: 2rem;
@@ -380,10 +380,9 @@ nav a:hover{
 }
 @media screen and (max-width:412px) {
     .home-info p{
-        font-size: 15px;
+        font-size: 17px;
     }
     .home-info {
-        max-width:90%;
-        padding:1rem;
+        max-width:300px;
 }
 }
