@@ -380,7 +380,7 @@ nav a:hover{
 }
 @media screen and (max-width: 450px) {
     .home-info p{
-        font-size: 16px;
+        font-size: 14px;
     }
     .home-info {
         max-width: 300px;
