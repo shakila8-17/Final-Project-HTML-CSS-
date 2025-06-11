@@ -373,5 +373,8 @@ nav a:hover{
     .about-info p{
         padding: 0 2rem;
     }
+    .about__infocard {
+        padding: 0 1rem;
+    }
 
 }
