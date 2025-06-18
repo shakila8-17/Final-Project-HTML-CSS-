@@ -351,7 +351,7 @@ nav a:hover{
 }
 @media screen and (max-width: 500px) {
     .home p,.home-info p{
-        font-size: 17px;
+        font-size: 16px;
     }
     nav ul{
         justify-content: center;
@@ -390,7 +390,7 @@ nav a:hover{
     font-size: 12px;
    }
    .home-info p{
-    font-size:0.8rem;
+    font-size:0.6rem;
     width: 200px;
   }
 }
@@ -402,7 +402,7 @@ nav a:hover{
     font-size: 12px;
    }
   .home-info p{
-    font-size:0.8rem;
+    font-size:0.6rem;
     width: 200px;
   }
 }
@@ -420,7 +420,7 @@ nav a:hover{
         font-size: 13px;
    }
   .home-info p{
-    font-size:0.5rem;
+    font-size:0.4rem;
     width: 200px;
   }
   .home-div{
@@ -454,7 +454,7 @@ nav a:hover{
 .header-contact a{
     color: #fff;
 }
-body{
+.contact-body{
     background-image: url(./img/photo_2025-06-05_20-14-11.jpg);
 }
 form{
