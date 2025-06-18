@@ -332,6 +332,9 @@ nav a:hover{
     .about-info{
         padding-right: 0;
     }
+    .home-info p{
+        font-size: 15px;
+    }
 }
 @media screen and (max-width: 830px) {
     .front-div{
@@ -351,7 +354,7 @@ nav a:hover{
 }
 @media screen and (max-width: 500px) {
     .home p,.home-info p{
-        font-size: 15px;
+        font-size: 14px;
     }
     nav ul{
         justify-content: center;
@@ -390,7 +393,7 @@ nav a:hover{
     font-size: 12px;
    }
    .home-info p{
-    font-size:0.5rem;
+    font-size:0.4rem;
     width: 200px;
   }
 }
@@ -402,7 +405,7 @@ nav a:hover{
     font-size: 12px;
    }
   .home-info p{
-    font-size:0.5rem;
+    font-size:0.4rem;
     width: 200px;
   }
 }
