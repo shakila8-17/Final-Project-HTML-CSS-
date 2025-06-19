@@ -378,7 +378,7 @@ nav a:hover{
         padding: 0 1rem;
     }
 }
-@media screen and (max-width:412px) {
+@media screen and (max-width:414px) {
    
    nav ul{
     font-size: 13px;
